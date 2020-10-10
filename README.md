@@ -1,2 +1,1 @@
-# SDAbackend
-backend da aplicação SDA
+# SDABackend
